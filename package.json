@@ -1,0 +1,25 @@
+{
+  "name": "twitter-clone-server",
+  "version": "1.0.0",
+  "description": "\"readme\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dm-devtech/twitter-clone-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dm-devtech/twitter-clone-server/issues"
+  },
+  "homepage": "https://github.com/dm-devtech/twitter-clone-server#readme",
+  "dependencies": {
+    "apollo-server-express": "^2.19.1",
+    "express": "^4.17.1",
+    "graphql": "^15.4.0"
+  }
+}
